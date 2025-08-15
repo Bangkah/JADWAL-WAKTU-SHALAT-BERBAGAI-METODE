@@ -3,6 +3,7 @@ Jadwal **real-time** semua kota Indonesia via API myquran.com
 — built with **pure PHP + Tailwind CSS** tanpa database.
 
 ## Demo
+![Uploading image.png…]()
 
 
 ## Cara pakai
