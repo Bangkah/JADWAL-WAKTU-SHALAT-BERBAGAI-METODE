@@ -1,15 +1,9 @@
-# Jadwal Sholat Realtime
-Jadwal **real-time** semua kota Indonesia via API myquran.com  
-— built with **pure PHP + Tailwind CSS** tanpa database.
-
-## Demo
-<img width="1384" height="829" alt="image" src="https://github.com/user-attachments/assets/9af6a39f-5251-414e-98c0-75a597d755f7" />
-
-
-
 # Jadwal Waktu Shalat Bulanan
 
 Aplikasi web ini menampilkan **jadwal shalat bulanan** secara **dinamis** berdasarkan posisi geografis pengguna (latitude & longitude) dan metode perhitungan yang dipilih. Data shalat dihitung menggunakan **PrayTimes.js** sehingga tidak bergantung pada API eksternal.
+
+## Demo
+<img width="1384" height="829" alt="image" src="https://github.com/user-attachments/assets/9af6a39f-5251-414e-98c0-75a597d755f7" />
 
 ---
 
@@ -37,6 +31,7 @@ Aplikasi web ini menampilkan **jadwal shalat bulanan** secara **dinamis** berdas
 ## Cara Penggunaan
 
 1. **Clone atau download** repository ini:
+   ```bash
    git clone https://github.com/username/jadwal-shalat-bulanan.git
 
     Buka file index.html di browser.
@@ -80,4 +75,5 @@ Tampilan
 Lisensi
 
 Proyek ini dibuat untuk edukasi & penggunaan pribadi.
+Silakan gunakan dan modifikasi sesuai kebutuhapenggunaan pribadi.
 Silakan gunakan dan modifikasi sesuai kebutuha
