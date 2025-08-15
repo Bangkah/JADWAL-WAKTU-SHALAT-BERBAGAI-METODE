@@ -1,0 +1,14 @@
+body { font-family: 'Inter', sans-serif; }
+
+.table th {
+  background: var(--bs-light);
+  color: var(--bs-primary);
+}
+
+.navbar-brand { font-weight: 600; }
+
+/* Dark mode override */
+[data-bs-theme="dark"] {
+  --bs-body-bg: #111827;
+  --bs-body-color: #f3f4f6;
+}
