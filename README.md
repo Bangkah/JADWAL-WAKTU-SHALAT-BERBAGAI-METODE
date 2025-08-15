@@ -23,7 +23,7 @@ Aplikasi web ini menampilkan **jadwal shalat bulanan** secara **dinamis** berdas
   - Shia Ithna-Ashari (Jafari)
   - Institute of Geophysics, University of Tehran
 - **Highlight hari ini** di tabel.  
-- Menampilkan **tanggal Masehi, Hijriah, dan Jawa**.  
+- Menampilkan **tanggal Masehi, dan Hijriah,**.  
 - Tampilan modern dengan **CSS rapi** dan **tabel responsif**.
 
 ---
@@ -76,4 +76,4 @@ Lisensi
 
 Proyek ini dibuat untuk edukasi & penggunaan pribadi.
 Silakan gunakan dan modifikasi sesuai kebutuhapenggunaan pribadi.
-Silakan gunakan dan modifikasi sesuai kebutuha
+Silakan gunakan dan modifikasi sesuai kebutuhan
