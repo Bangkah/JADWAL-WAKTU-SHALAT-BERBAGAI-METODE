@@ -32,7 +32,7 @@ Aplikasi web ini menampilkan **jadwal shalat bulanan** secara **dinamis** berdas
 
 1. **Clone atau download** repository ini:
    ```bash
-   git clone https://github.com/username/jadwal-shalat-bulanan.git
+   git clone https://github.com/Bangkah/JADWAL-WAKTU-SHALAT-BERBAGAI-METODE.git
 
     Buka file index.html di browser.
 
